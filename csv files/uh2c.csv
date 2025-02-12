@@ -1,0 +1,6 @@
+universite,filiere,t.emploi,salaire_debutant,salaire_apres_5,n.etudiants,t.reussite,t.satisfaction,t.abandon,n.enseignants,n.recherches,t.etudiants_etrangers,capacite_d_accueil,frais_d_inscription_mad_par_an,frais_de_scolarite_mad_par_an
+UH2C,architecture_et_arts,0.7,8000,15000,10000,0.75,0.7,0.12,30,5,0.05,1200,gratuit,gratuit
+UH2C,management_et_commerce,0.85,6500,12000,33400,0.88,0.75,0.15,40,10,0.07,4000,gratuit,gratuit
+UH2C,sciences_et_ingenierie,0.8,9000,18000,25000,0.8,0.78,0.2,50,25,0.1,8000,gratuit,gratuit
+UH2C,sciences_juridiques_sociales_et_politiques,0.75,6000,12000,35000,0.78,0.72,0.18,35,8,0.07,5500,gratuit,gratuit
+UH2C,medecine,0.95,15000,25000,254000,0.85,0.8,0.1,70,20,0.12,7000,gratuit,gratuit

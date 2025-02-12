@@ -1,0 +1,6 @@
+universite,filiere,t.emploi,salaire_debutant,salaire_apres_5,n.etudiants,t.reussite,t.satisfaction,t.abandon,n.enseignants,n.recherches,t.etudiants_etrangers,capacite_d_accueil,frais_d_inscription_mad_par_an,frais_de_scolarite_mad_par_an
+UAE,architecture_et_arts,0.88,8000,12000,8460.0,0.95,0.85,0.10,143,500,0.246,5000
+UAE,management_et_commerce,0.9,9500,14000,3750.0,0.92,0.87,0.12,147,300,0.3075,6000
+UAE,science_et_ingenierie,0.85,8700,12500,3750.0,0.91,0.80,0.15,79,800,0.3075,8000
+UAE,medecine,0.87,9000,13500,2460.0,0.94,0.84,0.11,88,700,0.246,7000
+UAE,sciences_juridiques_sociales_et_politiques,0.89,9200,13000,8300.0,0.93,0.86,0.13,67,400,0.123,4000
